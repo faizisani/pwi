@@ -1,0 +1,7 @@
+Build database in sql with design
+5 tables generate for assignment
+Configure hibernate code generation files on sql database
+generate hibernate files on it
+Configure spring project with maven technologies
+Frontend implement primefaces
+Using JAVA8, Tomcat 8, mysql 5 , hibernate 5, restful webservices not implemented.
